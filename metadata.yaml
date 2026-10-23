@@ -1,0 +1,9 @@
+name: pacer
+display_name: 节奏控制
+desc: 随机延迟回复、5% 概率装死、超长时按句末软收尾（不硬截断）
+version: 0.2.0
+author: dsh
+repo: https://github.com/Trayvon-123/dsh-pacer
+tags:
+  - 拟人
+  - 限速
